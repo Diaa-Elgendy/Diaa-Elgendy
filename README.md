@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Diaa Elgendy</h1>
-<h3 align="center">Passionate Mobile application developer (Flutter & Native Android), Web designer, interested in designing especially UX UI designing</h3>
+<h3 align="center">Passionate Mobile application developer (Flutter & Native Android), Web designer, interested in designing especially UX UI designing & backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaa-elgendy&label=Profile%20views&color=0e75b6&style=flat" alt="diaa-elgendy" /> </p>
 
