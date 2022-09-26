@@ -1,11 +1,9 @@
-<h1 align="center">Hello 👋, I'm Diaa Elgendy</h1>
+<h1 align="center">Hey Devs 👋,  I'm Diaa Elgendy</h1>
 <h3 align="center">Passionate Mobile application developer (Flutter & Native Android), Web designer, interested in designing especially UX UI designing & backend development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diaa-elgendy&label=Profile%20views&color=0e75b6&style=flat" alt="diaa-elgendy" /> </p>
 
 - 🔭 I’m currently working on **E-Learning Mobile Application**
-
-- 🌱 I’m currently learning **Flutter**
 
 - 📫 You can shoot me an email at **Diaaelgendy155@outlook.com**
 
