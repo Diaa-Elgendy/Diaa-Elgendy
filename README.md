@@ -1,5 +1,6 @@
-## Hi there, I'm Diaa Elgendy
+## Hi there, I'm Diaa Elgendy     ❤️ 👋
   - Experienced Flutter developer with 2+ years.
+  - Graduated from faculty of Computer and information science.
   - Seeking for new challenges to apply skills and deliver innovative mobile applications.
 <hr>
  
@@ -37,15 +38,23 @@
 <br>
 <hr>
 
-<!--
-<p align="left">
-<a href="https://linkedin.com/in/diaa-elgendy-2175311b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Diaa Elgendy" height="30" width="40" /></a>
-<a href="https://fb.com/diaa.elgendy.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Diaa Elgendy" height="30" width="40" /></a>
-<a href="https://instagram.com/diaa_elgendy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diaa_elgendy" height="30" width="40" /></a>
-</p>
--->
+<img align="right" src="images/periodicTable.jpg" alt="Image" width ="400" height="220">
+<h3>Periodic Table</h3>
+<p>Native Android Application that describe all the elements in the periodic table in details and explain all the chemical definitions that is related to the elements.</p>
+<br><br>
+<a href="https://github.com/Diaa-Elgendy/Periodic-Table" target="_blank" rel="noreferrer"> <img src="images/github.png" alt="c" width="150"/> </a>
+<br>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" src="images/car2go.jpg" alt="Image" width ="400" height="220">
+<h3>Car2Go</h3>
+<p>Car Renatl Application.</p>
+<br><br><br>
+<a href="https://github.com/Diaa-Elgendy/Car2Go" target="_blank" rel="noreferrer"> <img src="images/github.png" alt="c" width="150"/> </a>
+<br>
+<hr>
+
+
+## Languages and Tools:
+
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diaa-elgendy&show_icons=true&locale=en&layout=compact" alt="diaa-elgendy" /></p>
