@@ -13,7 +13,7 @@
 
 ## Latest work:
 
-<img src="images/tabea.jpg" alt="Image" height="220">
+<img src="images/tabea.jpg" alt="Image">
 <h3>Tabea - تابع</h3>
 <p>Tabea is an Outage Tracker app - your ultimate solution to stay informed and prepared in the face of power distruptions.</p>  
 <br>
