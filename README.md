@@ -29,23 +29,19 @@
 <img src="images/lavie.jpg" alt="Image">
 <h3>La Vie (Orange Hackathon Project 2022)</h3>
 <p>E-commerce application for targeting users who are interested in plants. Built with BLoC using MVVM architecture.</p>
-<br>
 <a href="https://github.com/Diaa-Elgendy/LaVie" target="_blank" rel="noreferrer"> <img src="images/github.png" alt="c" width="150"/> </a>
 <hr>
 
 <img src="images/periodicTable.jpg" alt="Image" >
 <h3>Periodic Table</h3>
 <p>Native Android Application that describe all the elements in the periodic table in details and explain all the chemical definitions that is related to the elements.</p>
-<br>
 <a href="https://github.com/Diaa-Elgendy/Periodic-Table" target="_blank" rel="noreferrer"> <img src="images/github.png" alt="c" width="150"/> </a>
 <hr>
 
 <img src="images/car2go.jpg" alt="Image" >
 <h3>Car2Go</h3>
 <p>Car Renatl Application.</p>
-<br><br><br>
 <a href="https://github.com/Diaa-Elgendy/Car2Go" target="_blank" rel="noreferrer"> <img src="images/github.png" alt="c" width="150"/> </a>
-<br>
 <hr>
 
 
