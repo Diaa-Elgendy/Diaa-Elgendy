@@ -16,7 +16,6 @@
 <img src="images/tabea.jpg" alt="Image">
 <h3>Tabea - تابع</h3>
 <p>Tabea is an Outage Tracker app - your ultimate solution to stay informed and prepared in the face of power distruptions.</p>  
-<br>
 <a href="https://play.google.com/store/apps/details?id=com.digitalbond.tabe3&pli=1" target="_blank" rel="noreferrer"> <img src="images/google play logo.png" alt="c" width="150"/> </a>
 <a href="https://apps.apple.com/eg/app/tabea-%D8%AA%D8%A7%D8%A8%D8%B9/id6458308370" target="_blank" rel="noreferrer"> <img src="images/app store logo.png" alt="c" width="150"/> </a>
 <hr>
